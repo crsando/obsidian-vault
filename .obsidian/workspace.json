@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "二手房购买与验房清单"
             }
+          },
+          {
+            "id": "e892d8b634208b72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,16 +199,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d80477e22d70ec1a",
+  "active": "de05482b5fca128c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "二手房购买与验房清单.md",
     "买房前需要检查的东西.md",
     "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
-    "二手房购买与验房清单.md",
     "Untitled 6.md",
     "Untitled 3.md",
     "Untitled 7.md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "beauty.md",
     "2026-05-10.md",
     "Dressing/上海_TSUNAMI_BAR_调研报告.md",
@@ -212,7 +228,6 @@
     "IMA导入/想去的餐厅 (3).md",
     "IMA导入/想去的餐厅.md",
     "IMA导入/想去的餐厅 (2).md",
-    "IMA导入/想去的餐厅（最终清爽版）.md",
     "Math",
     "Dressing",
     "Untitled.base",
