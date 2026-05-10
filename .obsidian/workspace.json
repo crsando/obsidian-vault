@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Untitled 1"
             }
           }
         ],
@@ -199,15 +199,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "366239e2ce7d0d22",
+  "active": "de05482b5fca128c",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "New Notes.md",
     "2026-05-10.md",
-    "Untitled.base",
-    "Hithere.md",
-    "Untitled.md",
+    "Math",
+    "Untitled 2.md",
+    "Dressing",
     "Untitled 1.md",
+    "Untitled.md",
+    "Untitled.base",
+    "New Notes.md",
+    "Hithere.md",
     "Hi There.md",
     "Hi.md",
     "Untitled.canvas",
