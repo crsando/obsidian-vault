@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "cbe724ba31569210",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hi"
+            }
+          },
+          {
             "id": "c476499df687f219",
             "type": "leaf",
             "state": {
@@ -22,21 +36,21 @@
             }
           },
           {
-            "id": "8ebca264b08cc677",
+            "id": "7a46a9aaa6889469",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hithere.md",
+                "file": "2026-05-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hithere"
+              "title": "2026-05-10"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,16 +213,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8ebca264b08cc677",
+  "active": "7a46a9aaa6889469",
   "lastOpenFiles": [
-    "New Notes.md",
-    "Hithere.md",
-    "Untitled.md",
     "Untitled 1.md",
+    "Hithere.md",
+    "New Notes.md",
+    "Untitled.md",
     "Hi There.md",
-    "Hi.md",
     "2026-05-10.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Hi.md"
   ]
 }
