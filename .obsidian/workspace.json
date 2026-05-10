@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d80477e22d70ec1a",
+            "id": "cbe724ba31569210",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "达叔的完整护肤计划（含水杨酸 + 壬二酸）"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 204.5
   },
   "right": {
     "id": "a44a94f73151f353",
@@ -180,39 +184,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d80477e22d70ec1a",
+  "active": "cbe724ba31569210",
   "lastOpenFiles": [
-    "Untitled 6.md",
-    "Untitled 3.md",
+    "Hi There.md",
+    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
     "Untitled 7.md",
+    "Untitled 6.md",
+    "Dressing/Test Dressing.md",
+    "Dressing/伪街路线规划.md",
+    "Dressing/🌙 伪街「夜行挑战」任务清单 · 上海篇.md",
+    "Dressing/🌙 适合伪娘一个人去的私密夜间空间（上海篇）.md",
+    "Untitled 5.md",
+    "Dressing/酒店女装自拍方案(iPhone版).md",
+    "Dressing/明仪变装（悉尼明仪伪娘社）— 详细信息挖掘.md",
+    "Dressing/康纳_KangNa & 云潇美学馆 — 详细信息挖掘.md",
+    "Dressing/上海伪娘 女装写真拍摄资源汇总.md",
+    "Dressing/📸 上海24小时自助拍照 大头贴研究.md",
+    "Dressing/🍷 上海小酒吧分布与特点分析.md",
+    "Dressing/🎀 伪街「心跳挑战」任务清单.md",
+    "Dressing/伪娘 大码微胖女生丝袜选购指南.md",
+    "Dressing/上海_TSUNAMI_BAR_调研报告.md",
+    "Dressing",
+    "Untitled 4.md",
+    "2026-05-10.md",
+    "Untitled 3.md",
+    "Untitled.base",
     "Untitled 2.md",
     "Untitled 1.md",
-    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
-    "beauty.md",
-    "2026-05-10.md",
-    "Dressing/上海_TSUNAMI_BAR_调研报告.md",
-    "IMA导入",
-    "Untitled.md",
-    "IMA导入/4月28日中央政治局会议解读总结.md",
-    "IMA导入/达叔的专属护肤与产品推荐指南.md",
-    "IMA导入/糖（软商品）交易核心框架与高盛研报分析.md",
-    "IMA导入/皮桌垫边缘割手的解决方法与分析.md",
-    "IMA导入/日本旅行计划 10.11 - 10.14.md",
-    "IMA导入/数据 中国4月PMI数据及统计局解读.md",
-    "IMA导入/2026上海浦东民办初中精选盘点.md",
-    "IMA导入/关于痤疮和护肤成分的记录.md",
-    "IMA导入/A股 AI软件投资标的概览.md",
-    "IMA导入/Memos 技能整理说明.md",
-    "IMA导入/方才有空暇，简单写个4月政治局简评：.md",
-    "IMA导入/想去的餐厅 (3).md",
-    "IMA导入/想去的餐厅.md",
-    "IMA导入/想去的餐厅 (2).md",
-    "IMA导入/想去的餐厅（最终清爽版）.md",
-    "IMA导入/_index.md",
-    "Math",
-    "Dressing",
-    "Untitled.base",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Hithere.md",
+    "New Notes.md",
+    "Untitled.md"
   ]
 }
