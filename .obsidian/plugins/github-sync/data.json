@@ -2,7 +2,7 @@
   "remoteURL": "https://github.com/crsando/obsidian-vault.git",
   "gitLocation": "",
   "syncinterval": 1,
-  "isSyncOnLoad": false,
+  "isSyncOnLoad": true,
   "checkStatusOnLoad": true,
   "noticeLevel": "ALL",
   "showSyncSuccessNotice": true
