@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "Untitled 1"
             }
+          },
+          {
+            "id": "579837ed4843195d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,17 +237,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0c3d12f0440ae708",
+  "active": "579837ed4843195d",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled 1.md",
     "投资研究/行业与公司/变压器与电力设备个股估值对比（2026-05-18）.md",
     "投资研究/行业与公司",
     "Untitled 3.md",
-    "Untitled 1.md",
     "Untitled.md",
     "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
     "投资研究/东方电气与A股电力设备方向观察.md",
     "投资研究",
-    "Untitled 2.md",
     "资料/文章/重磅解读！楼市小阳春是起死回生？还是昙花一现？.md",
     "资料/文章",
     "资料",
