@@ -36,31 +36,21 @@
             }
           },
           {
-            "id": "b9c94b13d2144ff2",
+            "id": "579837ed4843195d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "579837ed4843195d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "达叔的完整护肤计划（含水杨酸 + 壬二酸）"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,16 +215,16 @@
   },
   "active": "579837ed4843195d",
   "lastOpenFiles": [
+    "Pasted image 20260519002025.png",
+    "Untitled.md",
     "文章/宏观金融/Finding China in the U.S. TIC Data.md",
     "文章/宏观金融",
     "文章",
-    "Pasted image 20260519002025.png",
     "Untitled 2.md",
     "Untitled 1.md",
     "投资研究/行业与公司/变压器与电力设备个股估值对比（2026-05-18）.md",
     "投资研究/行业与公司",
     "Untitled 3.md",
-    "Untitled.md",
     "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
     "投资研究/东方电气与A股电力设备方向观察.md",
     "投资研究",
@@ -260,7 +250,6 @@
     "行研",
     "Research/全球利率共振与AI投资方向 — 文章总结.md",
     "Research/A股和港股软件平台类股票AI受益分析.md",
-    "答疑.md",
-    "华尔街担忧美联储加息 - 2026-05-16.md"
+    "答疑.md"
   ]
 }
