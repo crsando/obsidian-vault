@@ -13,16 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文章/宏观金融/Finding China in the U.S. TIC Data.md",
+                "file": "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finding China in the U.S. TIC Data"
+              "title": "达叔的完整护肤计划（含水杨酸 + 壬二酸）"
             }
           },
           {
-            "id": "60e97daf842f770a",
+            "id": "52be8dda16b431d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "达叔的完整护肤计划（含水杨酸 + 壬二酸）"
+            }
+          },
+          {
+            "id": "b9c94b13d2144ff2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,19 +50,17 @@
             }
           },
           {
-            "id": "700952abcb68665f",
+            "id": "579837ed4843195d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260519002025.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260519002025"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,44 +223,44 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "60e97daf842f770a",
+  "active": "579837ed4843195d",
   "lastOpenFiles": [
-    "Untitled.md",
     "文章/宏观金融/Finding China in the U.S. TIC Data.md",
-    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
+    "文章/宏观金融",
+    "文章",
     "Pasted image 20260519002025.png",
-    "投资研究/东方电气与A股电力设备方向观察.md",
-    "投资研究/行业与公司/变压器与电力设备个股估值对比（2026-05-18）.md",
     "Untitled 2.md",
+    "Untitled 1.md",
+    "投资研究/行业与公司/变压器与电力设备个股估值对比（2026-05-18）.md",
     "投资研究/行业与公司",
     "Untitled 3.md",
-    "行研/国产大模型厂商投资价值分析.md",
-    "Untitled 1.md",
-    "行研/华尔街担忧美联储加息 - 2026-05-16.md",
-    "行研/A股连跌两天的原因分析（2026-05-16）.md",
-    "行研/AI拉动的电力电子大基建：SiC、GaN 与硅 MOSFET 份额浅析.md",
-    "微信文章收藏/若持续突破，我们可能会看到1970至1980年滞胀年代的重演.md",
-    "微信文章收藏/微信文章收藏 - 2026-05-18.md",
-    "微信文章收藏/分歧看法 - 从有色到宏观.md",
-    "Research/全球利率共振与AI投资方向 — 文章总结.md",
-    "Research/今年强厄尔尼诺现象在全球将如何影响哪些产业？.md",
-    "Research/A股和港股软件平台类股票AI受益分析.md",
+    "Untitled.md",
+    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
+    "投资研究/东方电气与A股电力设备方向观察.md",
     "投资研究",
     "资料/文章/重磅解读！楼市小阳春是起死回生？还是昙花一现？.md",
     "资料/文章",
     "资料",
+    "行研/国产大模型厂商投资价值分析.md",
+    "行研/华尔街担忧美联储加息 - 2026-05-16.md",
+    "行研/A股连跌两天的原因分析（2026-05-16）.md",
+    "Math/答疑.md",
+    "Math/暑期几何专题课程-全等三角形8讲.md",
+    "Math",
     "Housing/二手房购买与验房清单.md",
     "Housing/买房前需要检查的东西.md",
-    "Math/暑期几何专题课程-全等三角形8讲.md",
-    "Math/答疑.md",
-    "微信文章收藏",
-    "Housing/Untitled.md",
-    "行研",
-    "Inbox",
-    "Research",
-    "Dressing/🌙 伪街「夜行挑战」任务清单 · 上海篇.md",
-    "Dressing/🎀 伪街「心跳挑战」任务清单.md",
     "Housing",
-    "Dressing"
+    "国产大模型厂商投资价值分析.md",
+    "微信文章收藏/若持续突破，我们可能会看到1970至1980年滞胀年代的重演.md",
+    "微信文章收藏/微信文章收藏 - 2026-05-18.md",
+    "微信文章收藏/分歧看法 - 从有色到宏观.md",
+    "微信文章收藏",
+    "暑期几何专题课程-全等三角形8讲.md",
+    "行研/AI拉动的电力电子大基建：SiC、GaN 与硅 MOSFET 份额浅析.md",
+    "行研",
+    "Research/全球利率共振与AI投资方向 — 文章总结.md",
+    "Research/A股和港股软件平台类股票AI受益分析.md",
+    "答疑.md",
+    "华尔街担忧美联储加息 - 2026-05-16.md"
   ]
 }
