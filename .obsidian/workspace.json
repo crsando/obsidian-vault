@@ -36,35 +36,21 @@
             }
           },
           {
-            "id": "b9c94b13d2144ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "579837ed4843195d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投资研究/长鑫存储材料耗材供应链受益公司.md",
+                "file": "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "长鑫存储材料耗材供应链受益公司"
+              "title": "达叔的完整护肤计划（含水杨酸 + 壬二酸）"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,15 +213,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "579837ed4843195d",
+  "active": "de05482b5fca128c",
   "lastOpenFiles": [
-    "投资研究/AlmaCreateFileTest_1779197247_path.md",
-    "AlmaCreateFileTest_1779197247_name.md",
-    "Untitled.md",
-    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
     "投资研究/长鑫存储材料耗材供应链受益公司.md",
     "投资研究/_alma_cli_test.md",
     "Pasted image 20260519002025.png",
+    "Untitled.md",
     "文章/宏观金融/Finding China in the U.S. TIC Data.md",
     "文章/宏观金融",
     "文章",
@@ -244,6 +227,7 @@
     "投资研究/行业与公司/变压器与电力设备个股估值对比（2026-05-18）.md",
     "投资研究/行业与公司",
     "Untitled 3.md",
+    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
     "投资研究/东方电气与A股电力设备方向观察.md",
     "投资研究",
     "资料/文章/重磅解读！楼市小阳春是起死回生？还是昙花一现？.md",
@@ -265,6 +249,8 @@
     "微信文章收藏",
     "暑期几何专题课程-全等三角形8讲.md",
     "行研/AI拉动的电力电子大基建：SiC、GaN 与硅 MOSFET 份额浅析.md",
-    "行研"
+    "行研",
+    "Research/全球利率共振与AI投资方向 — 文章总结.md",
+    "Research/A股和港股软件平台类股票AI受益分析.md"
   ]
 }
