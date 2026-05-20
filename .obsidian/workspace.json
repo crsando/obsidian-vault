@@ -180,18 +180,18 @@
             }
           },
           {
-            "id": "13b40a1f15f42df6",
+            "id": "3e60f756d8d176aa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Notes.md",
+                "file": "Quant/VCP（Volatility Contraction Pattern）量化实现调研.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New Notes"
+              "title": "Outline of VCP（Volatility Contraction Pattern）量化实现调研"
             }
           }
         ]
