@@ -314,18 +314,18 @@ trailing_stop = highest_since_entry * (1 - trailing_pct)
 
 ## 七、开源项目一览
 
-| 项目 | 语言 | 特色 |
-|------|------|------|
-| [shiyu2011/cookstock](https://github.com/shiyu2011/cookstock) | Python | Stage 2 + VCP + GPT 新闻分析，每日自动筛选 |
-| [EMMA019/US-stocks](https://github.com/EMMA019/US-stocks) | Python | 105 分评分 + Streamlit UI + GitHub Actions |
-| [jeffreyrdcs/stock-vcpscreener](https://github.com/jeffreyrdcs/stock-vcpscreener) | Python | Dash 可视化 + 市场广度指标 |
-| [marco-hui-95/vcp_screener](https://github.com/marco-hui-95/vcp_screener.github.io) | Python | FinViz 预筛 + 收缩计数到 Excel |
-| [crankycandle/volatility-contraction-pattern](https://github.com/crankycandle/volatility-contraction-pattern) | Python | 基于 carlam.net 的简洁实现 |
-| [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | Claude AI + VCP 筛选 + Alpaca 交易执行 |
-| rocketPower AFL | AFL | [AmiBroker Forum](https://forum.amibroker.com/t/18720)，最经典检测算法 |
-| Amphibiantrading VCP | Pine | [TradingView](https://tw.tradingview.com/script/J1tqSCqR)，5 层收缩追踪 |
-| oratnek VCS | Pine | [TradingView](https://www.tradingview.com/script/5eg3OfM6)，0-100 评分 |
-| tikamalma VCP Scanner | Python | [Substack](https://tikamalma.substack.com/p/understanding-basics-of-vcp-and-creating)，含 ML + 完整代码 |
+| 项目                                                                                                            | 语言     | 特色                                                                                                |
+| ------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------- |
+| [shiyu2011/cookstock](https://github.com/shiyu2011/cookstock)                                                 | Python | Stage 2 + VCP + GPT 新闻分析，每日自动筛选                                                                   |
+| [EMMA019/US-stocks](https://github.com/EMMA019/US-stocks)                                                     | Python | 105 分评分 + Streamlit UI + GitHub Actions                                                           |
+| [jeffreyrdcs/stock-vcpscreener](https://github.com/jeffreyrdcs/stock-vcpscreener)                             | Python | Dash 可视化 + 市场广度指标                                                                                 |
+| [marco-hui-95/vcp_screener](https://github.com/marco-hui-95/vcp_screener.github.io)                           | Python | FinViz 预筛 + 收缩计数到 Excel                                                                           |
+| [crankycandle/volatility-contraction-pattern](https://github.com/crankycandle/volatility-contraction-pattern) | Python | 基于 carlam.net 的简洁实现                                                                               |
+| [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)                     | Python | Claude AI + VCP 筛选 + Alpaca 交易执行                                                                  |
+| rocketPower AFL                                                                                               | AFL    | [AmiBroker Forum](https://forum.amibroker.com/t/18720)，最经典检测算法                                    |
+| Amphibiantrading VCP                                                                                          | Pine   | [TradingView](https://tw.tradingview.com/script/J1tqSCqR)，5 层收缩追踪                                 |
+| oratnek VCS                                                                                                   | Pine   | [TradingView](https://www.tradingview.com/script/5eg3OfM6)，0-100 评分                               |
+| tikamalma VCP Scanner                                                                                         | Python | [Substack](https://tikamalma.substack.com/p/understanding-basics-of-vcp-and-creating)，含 ML + 完整代码 |
 
 ---
 
