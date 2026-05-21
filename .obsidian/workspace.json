@@ -57,7 +57,7 @@
               "state": {
                 "file": "邱老师 - 暑期课程计划（紫竹校区，简化版）.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "邱老师 - 暑期课程计划（紫竹校区，简化版）"
@@ -229,14 +229,15 @@
   },
   "active": "cd5ccfc59bd0b275",
   "lastOpenFiles": [
+    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
     "4bb0481afa137813fae67cea828a8c27.jpg",
+    "邱老师 - 暑期课程计划（紫竹校区，简化版）.md",
     "b40e0773a43c7a0d06b1e6332f92c6e1.jpg",
+    "Pasted image 20260519002025.png",
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Research/AI数据中心与功率半导体的下一场军备竞赛.md",
-    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
-    "邱老师 - 暑期课程计划（紫竹校区，简化版）.md",
     "Research/全球铝市场50年最强结构性看涨分析.md",
     "Research/全球铝市场50年最强结构性看涨分析-原文.md",
     "Research/4月经济数据的4个边际变化.md",
@@ -253,7 +254,6 @@
     "Housing/重磅解读！楼市小阳春是起死回生？还是昙花一现？.md",
     "投资研究/长鑫存储材料耗材供应链受益公司.md",
     "投资研究/_alma_cli_test.md",
-    "Pasted image 20260519002025.png",
     "文章/宏观金融/Finding China in the U.S. TIC Data.md",
     "文章/宏观金融",
     "文章",
