@@ -1,0 +1,3 @@
+ctp_trader改造成一次只发送一个query，做成一个queue
+
+在on_idle中，先处理来自trader的消息，然后
