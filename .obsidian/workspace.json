@@ -55,26 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quant/VCP（Volatility Contraction Pattern）量化实现调研.md",
+                "file": "2026-05-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VCP（Volatility Contraction Pattern）量化实现调研"
-            }
-          },
-          {
-            "id": "c8d50eb4e061534d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CTP的改造思路.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CTP的改造思路"
+              "title": "2026-05-24"
             }
           },
           {
@@ -92,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -255,11 +241,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c8d50eb4e061534d",
+  "active": "cd5ccfc59bd0b275",
   "lastOpenFiles": [
-    "Quant/VCP（Volatility Contraction Pattern）量化实现调研.md",
-    "CTP的改造思路.md",
     "邱老师 - 暑期招生计划（紫竹校区）.md",
+    "2026-05-24.md",
+    "CTP的改造思路.md",
     "Research/A股连跌两天的原因分析（2026-05-16）.md",
     "Research/Finding China in the U.S. TIC Data.md",
     "Research/A股和港股软件平台类股票AI受益分析.md",
@@ -278,6 +264,7 @@
     "Research/全球铝市场50年最强结构性看涨分析.md",
     "Research/全球铝市场50年最强结构性看涨分析-原文.md",
     "Research/4月经济数据的4个边际变化.md",
+    "Quant/VCP（Volatility Contraction Pattern）量化实现调研.md",
     "Quant",
     "Research/长鑫存储材料耗材供应链受益公司.md",
     "Research/国产大模型厂商投资价值分析.md",
@@ -287,7 +274,6 @@
     "Research/AI拉动的电力电子大基建：SiC、GaN 与硅 MOSFET 份额浅析.md",
     "Housing/重磅解读！楼市小阳春是起死回生？还是昙花一现？.md",
     "投资研究/长鑫存储材料耗材供应链受益公司.md",
-    "投资研究/_alma_cli_test.md",
     "文章/宏观金融",
     "文章",
     "投资研究/行业与公司",
