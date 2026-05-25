@@ -53,12 +53,14 @@
             "id": "cd5ccfc59bd0b275",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260519002025.png"
+                "file": "Quant/CTP OrderInsert 全流程与异常处理.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260519002025"
+              "icon": "lucide-file",
+              "title": "CTP OrderInsert 全流程与异常处理"
             }
           },
           {
@@ -239,12 +241,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "cd5ccfc59bd0b275",
+  "active": "de05482b5fca128c",
   "lastOpenFiles": [
+    "Pasted image 20260519002025.png",
+    "Quant/CTP OrderInsert 全流程与异常处理.md",
     "Untitled 5.md",
     "Untitled 2.md",
     "Untitled.md",
-    "Pasted image 20260519002025.png",
     "b40e0773a43c7a0d06b1e6332f92c6e1.jpg",
     "4bb0481afa137813fae67cea828a8c27.jpg",
     "4bb0481afa137813fae67cea828a8c27 1.jpg",
@@ -270,8 +273,6 @@
     "Research/变压器与电力设备个股估值对比（2026-05-18）.md",
     "Research/华尔街担忧美联储加息 - 2026-05-16.md",
     "Research/东方电气与A股电力设备方向观察.md",
-    "Research/AI拉动的电力电子大基建：SiC、GaN 与硅 MOSFET 份额浅析.md",
-    "Housing/重磅解读！楼市小阳春是起死回生？还是昙花一现？.md",
     "文章/宏观金融",
     "文章",
     "投资研究/行业与公司",
