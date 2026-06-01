@@ -116,7 +116,7 @@
     "type": "split",
     "children": [
       {
-        "id": "a632bcad8c2e6218",
+        "id": "93fae7f01c06ebc0",
         "type": "tabs",
         "children": [
           {
@@ -131,7 +131,13 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a632bcad8c2e6218",
+        "type": "tabs",
+        "children": [
           {
             "id": "0e3a61358281a67b",
             "type": "leaf",
@@ -269,7 +275,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "de05482b5fca128c",
+  "active": "e1780e0e390caffd",
   "lastOpenFiles": [
     "氦星光联 - 现场调研报告 1.md",
     "Research/尽职调查/氦星光联项目速览与核心逻辑-2026-05-31.md",
