@@ -69,58 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTP的改造思路.md",
+                "file": "Housing/换房方案财务评估（2026年6月）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CTP的改造思路"
+              "title": "换房方案财务评估（2026年6月）"
             }
           },
           {
-            "id": "9596a694c53c3dac",
+            "id": "aa60f085901a7ec3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/尽职调查/氦星光联现场调研问题清单（现场精简版）-2026-06-01-V2.md",
+                "file": "Housing/重磅解读！楼市小阳春是起死回生？还是昙花一现？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "氦星光联现场调研问题清单（现场精简版）-2026-06-01-V2"
-            }
-          },
-          {
-            "id": "e590114dccd024a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "邱老师 - 暑期招生计划（紫竹校区）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "邱老师 - 暑期招生计划（紫竹校区）"
-            }
-          },
-          {
-            "id": "ad1da94e5d94fe86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "买房：考虑清单.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "买房：考虑清单"
+              "title": "重磅解读！楼市小阳春是起死回生？还是昙花一现？"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,9 +102,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a632bcad8c2e6218",
+        "id": "93fae7f01c06ebc0",
         "type": "tabs",
+        "dimension": 78.99159663865547,
         "children": [
+          {
+            "id": "ffa79cbd9b827428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "原房屋升级的思路.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "原房屋升级的思路"
+            }
+          },
           {
             "id": "de05482b5fca128c",
             "type": "leaf",
@@ -145,7 +132,15 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a632bcad8c2e6218",
+        "type": "tabs",
+        "dimension": 21.00840336134454,
+        "children": [
           {
             "id": "0e3a61358281a67b",
             "type": "leaf",
@@ -177,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 315.5
   },
   "right": {
     "id": "a44a94f73151f353",
@@ -283,40 +278,40 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ad1da94e5d94fe86",
+  "active": "de05482b5fca128c",
   "lastOpenFiles": [
-    "第二中心小学（张江校区）.md",
+    "Housing/重磅解读！楼市小阳春是起死回生？还是昙花一现？.md",
+    "原房屋升级的思路.md",
     "师兄的建议.md",
-    "Research/浦东购房建议-学区筛选（三林御桥张江北蔡）.md",
+    "Housing/换房方案财务评估（2026年6月）.md",
+    "Housing/买房前需要检查的东西.md",
+    "Housing/二手房购买与验房清单.md",
     "Research/浦东小学梯队筛选（三林-御桥-张江-北蔡）.md",
+    "Research/2026-06-06 张江换房方案财务分析.md",
+    "Research/浦东购房建议-学区筛选（三林御桥张江北蔡）.md",
     "Research/浦东二中心小学深度分析（巨野-张江-申江）.md",
     "Research/浦东与闵行板块对比-古美与唐镇.md",
-    "Research/2026-06-06 张江换房方案财务分析.md",
-    "Housing/换房方案财务评估（2026年6月）.md",
+    "CTP的改造思路.md",
+    "第二中心小学（张江校区）.md",
     "Housing/2025年浦东新区公办小学招生地段公示.md",
-    "邱老师 - 暑期招生计划（紫竹校区）.md",
     "买房：考虑清单.md",
-    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
-    "Untitled.md",
-    "Research/尽职调查/氦星光联 - 现场调研报告.md",
-    "Research/尽职调查/氦星光联现场调研问题清单（现场精简版）-2026-06-01-V2.md",
-    "氦星光联 - 现场调研报告 1.md",
-    "氦星光联 - 现场调研报告.md",
-    "现场调研报告.md",
-    "Research/尽职调查/氦星光联现场调研问题清单（终版）-2026-06-01.md",
-    "Research/尽职调查/致同会计师事务所财务尽调报告整理-2026.md",
-    "Research/今年强厄尔尼诺现象在全球将如何影响哪些产业？.md",
-    "Research/尽职调查/氦星光联项目速览与核心逻辑-2026-05-31.md",
-    "Research/尽职调查/氦星光联现场调研问题清单（Draft）-2026-06-01.md.bak-alma-20260531-2301",
-    "Research/尽职调查/氦星光联现场调研问题清单（Draft）-2026-06-01.md",
-    "Research/尽职调查/【尽职调查报告】致同会计师事务所关于财务-2026-全文提取.md",
-    "Research/尽职调查/【尽职调查报告】德恒上海律师事务所关于法律-20260225-全文提取.md",
-    "Research/尽职调查",
-    "Untitled 5.md",
-    "4bb0481afa137813fae67cea828a8c27 1.jpg",
     "4bb0481afa137813fae67cea828a8c27.jpg",
+    "4bb0481afa137813fae67cea828a8c27 1.jpg",
+    "2026-05-24.md",
     "b40e0773a43c7a0d06b1e6332f92c6e1.jpg",
+    "Untitled 5.md",
+    "Untitled.md",
     "Pasted image 20260519002025.png",
+    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
+    "邱老师 - 暑期招生计划（紫竹校区）.md",
+    "Research/尽职调查/氦星光联 - 现场调研报告.md",
+    "Research/尽职调查/氦星光联项目速览与核心逻辑-2026-05-31.md",
+    "氦星光联 - 现场调研报告.md",
+    "氦星光联 - 现场调研报告 1.md",
+    "Research/尽职调查/氦星光联现场调研问题清单（Draft）-2026-06-01.md",
+    "Research/尽职调查/氦星光联现场调研问题清单（现场精简版）-2026-06-01-V2.md",
+    "Research/尽职调查/氦星光联现场调研问题清单（Draft）-2026-06-01.md.bak-alma-20260531-2301",
+    "Research/尽职调查",
     "Quant",
     "文章/宏观金融",
     "文章",
