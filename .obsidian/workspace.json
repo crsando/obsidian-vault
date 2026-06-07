@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "房屋改造的思路（原升级 or 110平）"
             }
+          },
+          {
+            "id": "3e275f0980d6be11",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "bb18b56f24c89e458317b7921a691413.png"
+              },
+              "icon": "lucide-image",
+              "title": "bb18b56f24c89e458317b7921a691413"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -264,8 +276,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c8d50eb4e061534d",
+  "active": "3e275f0980d6be11",
   "lastOpenFiles": [
+    "Housing/房屋改造的思路（原升级 or 110平）.md",
     "房屋选择.md",
     "f381d0e9356a53276b2b7fd50da641b4.jpg",
     "Pasted image 20260607092245.png",
@@ -288,7 +301,6 @@
     "Housing/上海查房屋原始设计图纸攻略.md",
     "Housing/2026-06-06 张江换房方案财务分析.md",
     "Housing/二手房购买与验房清单.md",
-    "Housing/房屋改造的思路（原升级 or 110平）.md",
     "邱老师 - 暑期招生计划（紫竹校区）.md",
     "第二中心小学（张江校区）.md",
     "Housing/2025年浦东新区公办小学招生地段公示.md",
