@@ -146,9 +146,23 @@
               "icon": "lucide-file",
               "title": "买房：考虑清单"
             }
+          },
+          {
+            "id": "a80ad43c107815f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -311,8 +325,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0d1dccc12a44157e",
+  "active": "a80ad43c107815f9",
   "lastOpenFiles": [
+    "Housing/买房：考虑清单.md",
+    "Untitled 3.md",
     "Housing/二手房购买与验房清单.md",
     "Housing/张江广兰路核心区公寓小区梳理.md",
     "Housing/师兄的建议.md",
@@ -328,7 +344,6 @@
     "Housing/2025年浦东新区公办小学招生地段公示.md",
     "Housing/上海查房屋原始设计图纸攻略.md",
     "Housing/买房前需要检查的东西.md",
-    "Housing/买房：考虑清单.md",
     "Untitled 2.md",
     "bb18b56f24c89e458317b7921a691413.png",
     "Housing/浦东购房建议-学区筛选（三林御桥张江北蔡）.md",
@@ -342,7 +357,6 @@
     "买房：考虑清单.md",
     "Housing/原房屋升级的思路.md",
     "师兄的建议.md",
-    "Research/浦东购房建议-学区筛选（三林御桥张江北蔡）.md",
     "Research/尽职调查/氦星光联现场调研问题清单（Draft）-2026-06-01.md.bak-alma-20260531-2301",
     "Research/尽职调查",
     "4bb0481afa137813fae67cea828a8c27 1.jpg",
