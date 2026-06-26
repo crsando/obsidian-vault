@@ -111,16 +111,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "端午南昌旅行计划.md",
+                "file": "影视推荐：帮助理解人际关系分寸感.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "影视推荐：帮助理解人际关系分寸感"
+            }
+          },
+          {
+            "id": "9095767b39b72dc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程设计思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "端午南昌旅行计划"
+              "title": "课程设计思路"
+            }
+          },
+          {
+            "id": "bbb6577b65a1017d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-06-26-NumberTheory-Codex整理记录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-26-NumberTheory-Codex整理记录"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -283,13 +311,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0d1dccc12a44157e",
+  "active": "bbb6577b65a1017d",
   "lastOpenFiles": [
     "Untitled 1.md",
+    "2026-06-26-NumberTheory-Codex整理记录.md",
     "课程设计思路.md",
     "影视推荐：帮助理解人际关系分寸感.md",
-    "Housing/阳台防水维修.md",
+    "嘉兴-上海二日游计划（2026端午优化版）.md",
+    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
+    "邱老师 - 暑期招生计划（紫竹校区）.md",
     "端午南昌旅行计划.md",
+    "Housing/阳台防水维修.md",
     "端午南昌旅行加虎.md",
     "Housing/重磅解读！楼市小阳春是起死回生？还是昙花一现？.md",
     "Housing/2025年浦东新区公办小学招生地段公示.md",
@@ -298,12 +330,9 @@
     "Housing/买房：考虑清单.md",
     "Housing/浦东购房建议-学区筛选（三林御桥张江北蔡）.md",
     "Housing/装修材料好打理指南.md",
-    "嘉兴-上海二日游计划（2026端午优化版）.md",
     "嘉兴-上海二日游计划（2026端午）.md",
     "Untitled.md",
     "日式厨房排烟设计要点.md",
-    "邱老师 - 暑期招生计划（紫竹校区）.md",
-    "达叔的完整护肤计划（含水杨酸 + 壬二酸）.md",
     "房屋选择.md",
     "微信文章收藏/我在北京大学的三十年-任彦申、陈佳洱、许智宏与闵维方.md",
     "Housing/二手房健康安全排查指南.md",
@@ -314,7 +343,6 @@
     "Pasted image 20260607092245.png",
     "Pasted image 20260607092239.png",
     "第二中心小学（张江校区）.md",
-    "Housing/房屋改造的思路（原升级 or 110平）.md",
     "bb18b56f24c89e458317b7921a691413.png",
     "Research/尽职调查/氦星光联现场调研问题清单（Draft）-2026-06-01.md.bak-alma-20260531-2301",
     "Research/尽职调查",
