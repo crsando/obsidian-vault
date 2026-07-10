@@ -48,9 +48,15 @@
 最大无法表示的数显然发生在 $y_r$ 取最大值 $a-1$ 时，即：
 $$g(a, b) = (a-1)b - a = ab - b - a$$
 无法表示的非负整数个数：
-$$\sum_{r=0}^{a-1} \left\lfloor rac{y_r b}{a} ightfloor = \sum_{y=0}^{a-1} \left\lfloor rac{yb}{a} ightfloor$$
+$$\sum_{r=0}^{a-1} \left\lfloor rac{y_r b}{a} 
+ight
+floor = \sum_{y=0}^{a-1} \left\lfloor rac{yb}{a} 
+ight
+floor$$
 因为 $\gcd(a,b)=1$，利用埃尔米特恒等式或对称性，有：
-$$\sum_{y=0}^{a-1} \left\lfloor rac{yb}{a} ightfloor = rac{(a-1)(b-1)}{2}$$
+$$\sum_{y=0}^{a-1} \left\lfloor rac{yb}{a} 
+ight
+floor = rac{(a-1)(b-1)}{2}$$
 
 ---
 
