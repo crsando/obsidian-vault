@@ -1,8 +1,8 @@
 {
   "settingsVersion": 3,
   "apiBaseUrl": "https://ob.agentok.top",
-  "token": "",
-  "userId": "",
+  "token": "obs_UEJAmT6U36B18USbCPZ8EQ170wiCxVLjJs0awTUwv9U",
+  "userId": "usr_e9c090f6889a49958de5bb278049c85f",
   "syncFolder": "微信公众号文章",
   "deviceName": "Obsidian",
   "syncIntervalMinutes": 1,
