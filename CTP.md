@@ -15,6 +15,6 @@ appid：client_tara_241201  
 
 **国泰君安期货仿真：**
 账号：0061841498：
-密码：essential
+密码：essential@07
 appid：client_tifa_260501  
 仿真授权码：20260527TIFATIFA
