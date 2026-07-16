@@ -7,8 +7,9 @@ appid：client_tara_241201  
 
 
 **宏源期货仿真：**
-账号：333307126：
-密码：essential
+UserID：333307126：
+BrokerID: 3070
+Pass：333307126
 appid：client_tara_241201  
 仿真授权码：CY2LFL92CISEEKVM
 
