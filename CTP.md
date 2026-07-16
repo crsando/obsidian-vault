@@ -15,6 +15,7 @@ AppID：client_tara_241201  
 AuthCode：CY2LFL92CISEEKVM
 
 **国泰君安期货仿真：**
+Front: tcp://114.94.128.1:42205
 UserID：0061841498
 BrokerID: 2071
 Pass：essential@07
