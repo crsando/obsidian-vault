@@ -7,15 +7,15 @@ appid：client_tara_241201  
 
 
 **宏源期货仿真：**
-UserID：333307126：
+UserID：333307126
 BrokerID: 3070
-Pass：333307126
-appid：client_tara_241201  
-仿真授权码：CY2LFL92CISEEKVM
-
+Pass：essential@07
+AppID：client_tara_241201  
+AuthCode：CY2LFL92CISEEKVM
 
 **国泰君安期货仿真：**
-账号：0061841498：
-密码：essential@07
-appid：client_tifa_260501  
-仿真授权码：20260527TIFATIFA
+UserID：0061841498
+BrokerID: 2071
+Pass：essential@07
+AppID：client_tifa_260501  
+AuthCode：20260527TIFATIFA
