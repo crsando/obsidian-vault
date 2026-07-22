@@ -14,9 +14,14 @@
 			- VCP Pattern
 
 server.ts
-	- 
+	- 提供一个监控面板
+
+
+
+Key Component
+- 哪些数据需要监控，如何监控
 
 
 client_tui.lua
 	- 连接gateway，发指令
-		- 
+	- 给AI调用，查询当前持仓的信息等
