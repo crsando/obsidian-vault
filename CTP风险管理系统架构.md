@@ -13,6 +13,10 @@
 			- 行情剧烈波动
 			- VCP Pattern
 
+server.ts
+	- 
+
 
 client_tui.lua
-	- 
+	- 连接gateway，发指令
+		- 
