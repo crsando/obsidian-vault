@@ -4,7 +4,7 @@
   "switcher": true,
   "graph": false,
   "backlink": false,
-  "canvas": true,
+  "canvas": false,
   "outgoing-link": false,
   "tag-pane": true,
   "footnotes": false,
@@ -13,7 +13,7 @@
   "daily-notes": false,
   "templates": true,
   "note-composer": true,
-  "command-palette": true,
+  "command-palette": false,
   "slash-command": false,
   "editor-status": true,
   "bookmarks": true,
@@ -28,6 +28,6 @@
   "file-recovery": true,
   "publish": false,
   "sync": false,
-  "bases": true,
+  "bases": false,
   "webviewer": false
 }
