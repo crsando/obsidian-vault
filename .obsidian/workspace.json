@@ -154,17 +154,13 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "e295a673b79a9092",
   "lastOpenFiles": [
+    "Research/国内火箭军工商业航天A股投资研究(2024-2026.7复盘).md",
     "秋季几何课计划.md",
     "日式厨房排烟设计要点.md",
     "疱疹性咽峡炎治疗方案（2026-06-27）.md",
@@ -198,7 +194,6 @@
     "Pasted image 20260702125859.png",
     "Pasted image 20260607092245.png",
     "房屋选择.md",
-    "影视推荐：帮助理解人际关系分寸感.md",
     "Programming/LuaJIT",
     "Programming",
     "Pasted image 20260607092239.png",
