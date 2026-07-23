@@ -223,3 +223,39 @@ kline/
 - request.security / 多周期数据：https://www.tradingview.com/pine-script-docs/concepts/other-timeframes-and-data/
 - 社区验证"1h 无 09:30 bar"（行为层，非官方逐字）：https://tw.tradingview.com/scripts/sessions/
 - 备注：TradingView 未公开高周期对齐逐字算法，"日边界对齐"为社区长期观察的一致行为，可信但属经验性结论。
+
+---
+
+## 九、对齐哲学对比：TradingView vs 国内期货
+
+调研了 **TradingView** 的 K 线聚合逻辑，发现它与国内期货走的是**相反的对齐哲学**，对本库的对齐策略很有参考价值。
+
+### TradingView 的做法（日边界对齐）
+- **从交易所日边界（午夜/整点）向下取整**做纯墙上时钟对齐，**不做 session 感知的强制封口**。
+- 后果：高周期 bar 会"吃掉"开盘——**美股 1 小时图上没有独立的 09:30 bar**，开盘被并进 09:00–10:00 那根（社区原话："Hourly bars cut off the 09:30 New York open"）。
+- 周期规范（官方 Pine 文档）：无"小时"单位，1 小时写 `"60"`；**分钟支持 1–1440 任意值**（能做 45/90 分钟）；秒仅 1/5/10/15/30/45。
+- 为什么这么设计：TradingView 是**全球全品种平台**，无法为每个品种维护 session 表，故用统一日边界对齐——简单、一致、可预测，代价是牺牲开盘/收盘精确性（很多 session 指标干脆 1h 以上拒绝工作）。
+- bar 时间戳用**起始时间**（左对齐），与国内一致。
+
+### 对比表
+
+| 维度 | TradingView | 国内期货（本库） |
+|---|---|---|
+| 对齐锚点 | **日边界向下取整** | **session 起点对齐** |
+| 开盘处理 | 吃掉开盘（无独立开盘 bar） | 从时段起点干净开始 |
+| 休盘/午休 | 不强制封口 | **休盘边界强制封口** |
+| 非整除周期 | 原生支持 1–1440 分钟 | 需交易时长对齐 |
+| session 表 | 不维护（全球通用） | 必须维护品种时段表 |
+| 设计取向 | 通用、简单、可预测 | 贴合期货交易时段、精确 |
+
+### 对本库的启示
+1. 本库**国内期货专用**，坚持 **session 起点对齐 + 休盘强制封口**（比 TradingView 精确、与文华一致），不学其日边界对齐。
+2. 可借鉴 TradingView 两点：**支持 1–1440 任意分钟周期**（用交易时长对齐做 45/90 分钟）；**API 层区分已确认/未确认 bar**，回调只在封口触发，避免 repaint 式抖动。
+3. 若未来要做跨品种/全球标的通用聚合，再把 TradingView 式日边界对齐作为可选模式。
+
+> 置信度说明：TradingView 未公开高周期对齐的逐字算法，"日边界对齐"是社区长期观察的一致行为（可信但属经验结论）；周期规范部分为官方文档确证。
+
+### 来源
+- 官方 Pine Script 文档 · Timeframes：https://www.tradingview.com/pine-script-docs/concepts/timeframes/
+- 官方 Pine Script 文档 · request.security / Other timeframes：https://www.tradingview.com/pine-script-docs/concepts/other-timeframes-and-data/
+- 社区验证"1h 无 09:30 bar / 小时 bar 截断开盘"：https://tw.tradingview.com/scripts/sessions/ 、https://tw.tradingview.com/scripts/%23newyorksession/
