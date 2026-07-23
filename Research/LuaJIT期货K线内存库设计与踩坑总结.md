@@ -180,3 +180,46 @@ kline/
 - vnpy Issue #957 郑商所收盘数据：https://github.com/vnpy/vnpy/issues/957
 - VNPY3.0 解析——K线合成：https://zhuanlan.zhihu.com/p/3004943208
 - TqSdk 与 vn.py 的差别：https://doc.shinnytech.com/tqsdk/latest/advanced/for_vnpy_user.html
+
+---
+
+## 九、对齐哲学对比：TradingView vs 国内期货
+
+调研了 **TradingView** 的 K 线聚合逻辑，发现它与国内期货（文华/vnpy）走的是**相反的哲学**，对自研库的对齐策略选择很有参考价值。
+
+### TradingView 的核心行为
+- **从交易所日边界（午夜/整点）向下取整对齐**，不做 session 感知的强制封口：
+  `bar_start = floor((t - day_anchor) / period) * period + day_anchor`
+- 后果：高周期 bar 会"吃掉"开盘时刻——**美股 1 小时图上没有独立的 09:30 bar**，
+  开盘被并进 09:00–10:00 那根（社区原话："Hourly bars cut off the 09:30 New York open"）。
+- 原因：TradingView 是**全球全品种平台**（股/期/外汇/加密几万标的），
+  无法为每个品种维护 session 时段表，只能用统一日边界对齐——简单、一致、可预测，代价是牺牲 session 精确性。
+
+### 周期规范（官方 Pine 文档）
+- 无"小时"单位，`1H` 非法，1 小时写 `"60"`（内部把小时当分钟数处理）。
+- **分钟支持 1–1440 任意值** → 能做 **45、90 分钟**等非整除周期（比 vnpy 原生只支持整除 60 的更灵活）。
+- 秒仅 1/5/10/15/30/45；tick 仅 1/10/100/1000。
+- bar 时间戳用**起始时间**（左闭），与国内一致。
+
+### 对比表
+
+| 维度 | TradingView | 国内期货（本设计） |
+|---|---|---|
+| 对齐锚点 | **日边界向下取整** | **session 起点对齐** |
+| 开盘处理 | 吃掉开盘（无独立开盘 bar） | 从时段起点干净开始 |
+| 休盘/午休 | 不强制封口 | **休盘边界强制封口** |
+| 非整除周期 | 原生支持 1–1440 分钟 | 需交易时长对齐 |
+| session 表 | 不维护（全球通用） | 必须维护品种时段表 |
+| 设计取向 | 通用、简单、可预测 | 贴合期货交易时段、精确 |
+
+### 给自研库的决策
+1. 面向**国内期货专用** → 坚持 **session 对齐 + 休盘强制封口**（比 TV 精确，与文华一致），别学 TV 日边界对齐。
+2. 可借鉴 TV 两点：**支持 1–1440 任意分钟周期**（用交易时长对齐做 45/90 分钟）、
+   **API 区分已确认/未确认 bar**（回调只在封口触发，避免 repaint 抖动）。
+3. 若未来要做跨品种/全球标的通用聚合，再把 TV 式日边界对齐作为可选模式。
+
+### 来源（TradingView）
+- 官方 Pine Script 文档 · Timeframes：https://www.tradingview.com/pine-script-docs/concepts/timeframes/
+- request.security / 多周期数据：https://www.tradingview.com/pine-script-docs/concepts/other-timeframes-and-data/
+- 社区验证"1h 无 09:30 bar"（行为层，非官方逐字）：https://tw.tradingview.com/scripts/sessions/
+- 备注：TradingView 未公开高周期对齐逐字算法，"日边界对齐"为社区长期观察的一致行为，可信但属经验性结论。
