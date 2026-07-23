@@ -1,6 +1,6 @@
 [
   "obsidian-minimal-settings",
-  "github-sync",
   "obsidian-image-auto-upload-plugin",
-  "wechat-obsync"
+  "wechat-obsync",
+  "obsidian-git"
 ]
