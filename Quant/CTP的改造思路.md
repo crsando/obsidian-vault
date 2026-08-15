@@ -1,3 +1,13 @@
-ctp_trader改造成一次只发送一个query，做成一个queue
-
-在on_idle中，先处理来自trader的消息，然后继续resume_query
+- [x] ctp_trader改造成一次只发送一个query，做成一个queue
+- [x] 在on_idle中，先处理来自trader的消息，然后继续resume_query
+- [ ] 靠AI帮忙重新写lservice3 -> service.luajit，解决内存安全和各种坑的问题
+	- [ ] doing
+- [ ] 考虑一下期货历史数据保存的问题
+	- [ ] 主要的开发目录放在kline.luajit这个项目中
+- [ ] 我现在打算做一个小的demo
+	- [ ] 基础是当前持仓的品种 or 用户输入的potentiao品种
+	- [ ] 大概思路：从各种方式，获取当前持仓平总的上一周的历史数据，根据market-profile等方式，计算出support/resistance
+	- [ ] 日内根据ctp_collector获取tick
+	- [ ] 如果击中support/resistance，发出alert
+	- [ ] 实时计算短线赔率（当前价格vs. support/resistance），通过tui反馈，提供
+	- [ ] 
