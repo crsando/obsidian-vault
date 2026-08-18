@@ -695,3 +695,8 @@ result.json
 ## 当前每日研究操作
 
 具体执行、肉眼复盘、人工 review 和本地网站构想见：[[Tick Volume Profile 每日研究流程与本地浏览网站]]
+
+
+## 通俗原理说明
+
+基础概念和直观类比见：[[Tick Volume Profile 识别 Support Resistance 的基本逻辑]]

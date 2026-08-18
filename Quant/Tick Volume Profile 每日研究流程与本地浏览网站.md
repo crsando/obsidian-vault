@@ -580,3 +580,7 @@ CSV 导出
 6. 将 review 保存到 SQLite 并可导出 CSV。
 
 这正好支持当前“不断收集 tick、重复运行、肉眼观察、积累判断”的研究阶段。
+
+## 基础原理
+
+Profile、HVN/LVN、Zone 和动态 support/resistance 的通俗解释见：[[Tick Volume Profile 识别 Support Resistance 的基本逻辑]]
