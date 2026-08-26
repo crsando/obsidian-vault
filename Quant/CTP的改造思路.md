@@ -10,4 +10,7 @@
 	- [ ] 日内根据ctp_collector获取tick
 	- [ ] 如果击中support/resistance，发出alert
 	- [ ] 实时计算短线赔率（当前价格vs. support/resistance），通过tui反馈，提供
-	- [ ] 
+- [ ] ctp_trader timedout
+	- [ ] 现象：有的时候CTP服务器无法查询一些Instrument（在query_instrument的时候），此时一直等不到主机回复，query会卡住
+		- [ ] 估计还是和查询流控有关，有的时候会直接给OnRspError，有的时候会很长时间一直不返回任何东西导致查询卡在那里
+		- [ ] query_instrument尽量还是缓存一下
