@@ -1,9 +1,12 @@
 - [x] ctp_trader改造成一次只发送一个query，做成一个queue
 - [x] 在on_idle中，先处理来自trader的消息，然后继续resume_query
-- [ ] 靠AI帮忙重新写lservice3 -> service.luajit，解决内存安全和各种坑的问题
+- [ ] 靠AI帮忙重新写lservice3 -> service.lua，解决内存安全和各种坑的问题
 	- [ ] doing
 - [ ] 考虑一下期货历史数据保存的问题
 	- [ ] 主要的开发目录放在kline.luajit这个项目中
+- [ ] 解决一下定时连接 + 定时断开
+	- [ ] 收盘前连接，收盘后断开
+	- [ ] 做好状态机和状态维护
 - [ ] 我现在打算做一个小的demo
 	- [ ] 基础是当前持仓的品种 or 用户输入的potentiao品种
 	- [ ] 大概思路：从各种方式，获取当前持仓平总的上一周的历史数据，根据market-profile等方式，计算出support/resistance
