@@ -230,3 +230,9 @@ appValid=false
 已开始实现 GodHook 替代方案的 Phase 0。当前工作区新增 Kotlin Android 项目 `WeChat Bridge Probe`：仅监听 `com.tencent.mm` 的 Accessibility 窗口/内容变化，显示无障碍状态、Android/微信版本和脱敏 UI 诊断摘要；支持暂停采集与清空诊断。明确不发送消息、不使用剪贴板、不截图、不读取微信私有数据库、不 Hook、不联网。
 
 项目文件位于当前工作区，设计稿和最终交付说明见 `outputs/oneplus5-wechat-bridge-design.md`。当前 Mac 缺少 JDK、Gradle 和 Android SDK，尚未生成 APK；下一步安装构建环境后执行 `assembleDebug`，再通过 USB 安装到 OnePlus 5 做真实 UI 探测。
+
+## 微信版本基线：8.0.77（2026-08-30）
+
+已从腾讯官方 `dldir1v6.qq.com` 下载并安装 `WeChat 8.0.77`，versionCode `3160`，APK 为 `arm64`，minSdk `24`，与当前 OnePlus 5 / Android 10 兼容。通过 `adb install -r -d` 覆盖安装成功，包名仍为 `com.tencent.mm`，签名摘要与原安装保持一致，未执行卸载。
+
+本地 APK：`outputs/apks/WeChat-8.0.77-3160-arm64.apk`。后续 Accessibility 探测器以微信 8.0.77 作为当前适配基线；升级后需要重新观察窗口 class、节点数量和可访问语义。
