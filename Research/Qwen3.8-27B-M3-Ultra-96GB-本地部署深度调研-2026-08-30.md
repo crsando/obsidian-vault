@@ -193,14 +193,15 @@ M3 Ultra 60c/96GB 上，oQ8e/fp16-MTP 在 64K 上下文记录为 23.2 tok/s、40
 
 ## 六、部署路线与稳定性
 
-| 路线 | 建议 | 说明 |
-|---|---|---|
-| MLX-VLM + mlx-community 4-bit | 先做 baseline | Apple Silicon 原生，图片路径明确 |
-| oQ4e/MTP + oMLX | 日常性能版 | OpenAI/Anthropic API、batch、cache、MTP、VLM |
-| llama.cpp + Unsloth GGUF | 兼容性回退 | Metal、GGUF 和生态最广 |
-| LM Studio | GUI 快速验证 | 方便锁模型、改上下文和做对照 |
-| Ollama | 简单文本体验 | tag、量化和默认参数会变化 |
-| vLLM/SGLang | 不作为 Mac 首选 | 更适合 Linux/NVIDIA 服务端 |
+| 路线                            | 建议          | 说明                                       |
+| ----------------------------- | ----------- | ---------------------------------------- |
+| MLX-VLM + mlx-community 4-bit | 先做 baseline | Apple Silicon 原生，图片路径明确                  |
+| oQ4e/MTP + oMLX               | 日常性能版       | OpenAI/Anthropic API、batch、cache、MTP、VLM |
+| llama.cpp + Unsloth GGUF      | 兼容性回退       | Metal、GGUF 和生态最广                         |
+| LM Studio                     | GUI 快速验证    | 方便锁模型、改上下文和做对照                           |
+| Ollama                        | 简单文本体验      | tag、量化和默认参数会变化                           |
+| vLLM/SGLang                   | 不作为 Mac 首选  | 更适合 Linux/NVIDIA 服务端                     |
+|                               |             |                                          |
 
 来源：
 
