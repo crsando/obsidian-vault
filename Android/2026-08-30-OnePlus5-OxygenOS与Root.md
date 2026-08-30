@@ -218,3 +218,9 @@ appValid=false
 - GodHook 的 5888 服务恢复前，不要暴露端口到公网。
 - 微信机器人测试只使用专门测试账号，并仅处理获得授权的消息。
 - 暂不进行群发、自动加好友、红包、转账或其他高风险操作。
+
+## 后续诊断：GodHook 替代方案（2026-08-30）
+
+已决定放弃 GodHook。当前设备通过 USB ADB 正常连接，GodHook v1.4.6 的 INTERNET、ACCESS_NETWORK_STATE 和 ACCESS_WIFI_STATE 权限均已授予；但设备和 Mac 对 app.godhook.top 的解析均返回 NXDOMAIN，Cloudflare DNS、Google DNS、Quad9 交叉验证结果一致。设备侧 ping 报 unknown host，5888 端口未监听，因此不是 Root、LSPosed 注入或 Wi-Fi 故障。
+
+下一步改为设计并实现本地微信桥接器：先用 Android AccessibilityService 做固定微信 8.0.48 的只读文本监听和适配自检，再做默认关闭、白名单、串行队列、限流和三态确认的文本发送。暂不读取微信私有数据库、不使用私有网络协议、不开放公网端口；LSPosed 仅作为后续可选适配层。设计稿见：outputs/oneplus5-wechat-bridge-design.md
