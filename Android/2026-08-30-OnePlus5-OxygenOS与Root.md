@@ -224,3 +224,9 @@ appValid=false
 已决定放弃 GodHook。当前设备通过 USB ADB 正常连接，GodHook v1.4.6 的 INTERNET、ACCESS_NETWORK_STATE 和 ACCESS_WIFI_STATE 权限均已授予；但设备和 Mac 对 app.godhook.top 的解析均返回 NXDOMAIN，Cloudflare DNS、Google DNS、Quad9 交叉验证结果一致。设备侧 ping 报 unknown host，5888 端口未监听，因此不是 Root、LSPosed 注入或 Wi-Fi 故障。
 
 下一步改为设计并实现本地微信桥接器：先用 Android AccessibilityService 做固定微信 8.0.48 的只读文本监听和适配自检，再做默认关闭、白名单、串行队列、限流和三态确认的文本发送。暂不读取微信私有数据库、不使用私有网络协议、不开放公网端口；LSPosed 仅作为后续可选适配层。设计稿见：outputs/oneplus5-wechat-bridge-design.md
+
+## Phase 0：微信适配探测器（2026-08-30）
+
+已开始实现 GodHook 替代方案的 Phase 0。当前工作区新增 Kotlin Android 项目 `WeChat Bridge Probe`：仅监听 `com.tencent.mm` 的 Accessibility 窗口/内容变化，显示无障碍状态、Android/微信版本和脱敏 UI 诊断摘要；支持暂停采集与清空诊断。明确不发送消息、不使用剪贴板、不截图、不读取微信私有数据库、不 Hook、不联网。
+
+项目文件位于当前工作区，设计稿和最终交付说明见 `outputs/oneplus5-wechat-bridge-design.md`。当前 Mac 缺少 JDK、Gradle 和 Android SDK，尚未生成 APK；下一步安装构建环境后执行 `assembleDebug`，再通过 USB 安装到 OnePlus 5 做真实 UI 探测。
