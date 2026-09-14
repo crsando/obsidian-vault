@@ -6,6 +6,7 @@
 - thinklab（T460s）：开发机，tailscale exit node，openclaw
 - mbp12（Macbook Pro 12）：QuestDB数据库 + 中转服务
 - mba1：Alma + Openclaw（梅梅的）
+- m4max：本地部署Qwen3.8 27B
 
 需要解决的问题：
 - 百度网盘下载 + 转存nas
