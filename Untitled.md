@@ -1,0 +1,3 @@
+
+
+A high-end fashion magazine editorial, featuring an extremely beautiful and ultra-feminine Japanese trans woman with short blonde hair and large penis. She is naked. She has a tall, slender figure. She is posing by an exclusive luxury hotel rooftop infinity pool. The background features a stunning daytime cityscape with towering skyscrapers under bright sunlight. Shot from a far distance on a 200mm telephoto lens, f/1.2 aperture, creating beautiful background compression and creamy bokeh. Out-of-focus tropical potted plants in the foreground create a rich sense of depth and perspective. Crisp focus on her, crystal clear details, bright natural daylight.
