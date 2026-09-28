@@ -38,3 +38,8 @@ A high-end fashion magazine editorial. A a very feminine naked Japanese ladyboy,
 
 
 Nighttime ambiance, softly illuminated by the warm, diffuse glow of a bedside lamp, casting gentle highlights and subtle shadows over her skin and bedding. The background shows an upscale hotel hotel lobby with a large window subtly hinting at the dark city night outside. He has black high heels. Full-body view. Shot from a far distance on a 200mm telephoto lens, f/1.2 aperture, creating beautiful background compression and creamy bokeh. Crisp focus on the subject, crystal clear details, soft warm light, quiet and cozy mood.
+
+
+
+  
+High-fashion editorial photography style, Vogue aesthetic, cinematic look. A a very feminine naked Japanese ladyboy, prominently featuring a visible big soft penis completely unobstructed, with sleek, modern features kneels on a plush bed in a luxury hotel suite, his knees parted naturally in a bold, poised pose. His arms are raised gracefully behind her head, slender fingers loosely combing through tousled, voluminous black hair. His chin is subtly tilted upward with an aloof, sultry and confident gaze directed near the camera. He wears black lace bra, has black high heels, no panties, the fabric showing subtle luxurious sheen against rumpled crisp white sheets. Dramatic moody lighting with warm rim lights softly defining her silhouette against the cool dim city night beyond the floor-to-ceiling glass. Fine art film grain texture, medium shot, high fashion magazine cover framing, sophisticated and captivating aesthetic.
