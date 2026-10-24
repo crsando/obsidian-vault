@@ -5,8 +5,10 @@
 	- TickData的长期持久化保存（硬盘最大）
 - thinklab（T460s）：开发机，tailscale exit node，openclaw
 - mbp12（Macbook Pro 12）：QuestDB数据库 + 中转服务
+	- 跑 xunlei docker，当下载机用
 - mba1：Alma + Openclaw（梅梅的）
 - m4max：本地部署Qwen3.8 27B
+	- 争取换成 m5 max（prefill快很多）
 
 需要解决的问题：
 - 百度网盘下载 + 转存nas
