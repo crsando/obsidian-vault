@@ -5,7 +5,7 @@ tags:
   - 旁路由
   - shellcrash
   - mihomo
-status: 待部署
+status: 已被 dae 方案取代
 device: NanoPi R4S · 192.168.5.5
 ---
 
