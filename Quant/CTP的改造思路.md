@@ -1,7 +1,7 @@
 - [x] ctp_trader改造成一次只发送一个query，做成一个queue
 - [x] 在on_idle中，先处理来自trader的消息，然后继续resume_query
-- [ ] 靠AI帮忙重新写lservice3 -> service.lua，解决内存安全和各种坑的问题
-	- [ ] doing
+- [x] 靠AI帮忙重新写lservice3 -> service.lua，解决内存安全和各种坑的问题
+	- [x] doing
 - [ ] 考虑一下期货历史数据保存的问题
 	- [ ] 主要的开发目录放在kline.luajit这个项目中
 - [ ] 解决一下定时连接 + 定时断开
