@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="480" viewBox="0 0 1080 480">
+<defs><style>text { font-family: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', -apple-system, sans-serif; }</style></defs>
+<rect width="1080" height="480" fill="#FAFBFC" rx="8"/>
+<text x="32" y="38" font-size="18" font-weight="700" fill="#0F172A">历史高相似度情景复盘：单日“50-1000剪刀差” vs 后续中证1000表现与核心分水岭</text>
+<text x="32" y="60" font-size="12" fill="#475569">横轴：事件日（T0）上证50减中证1000剪刀差（%）；纵轴：后续1-2周中证1000关键波段表现（%）；颜色代表国家队是否向中小盘扩容</text>
+<rect x="28" y="78" width="1024" height="378" fill="#FFFFFF" stroke="#E2E8F0" rx="6"/>
+<rect x="105" y="115" width="875" height="98.8" fill="#FEF2F2" opacity="0.45"/>
+<rect x="105" y="213.8" width="875" height="181.2" fill="#F0FDF4" opacity="0.45"/>
+<line x1="105.0" y1="115" x2="105.0" y2="395" stroke="#E2E8F0" stroke-dasharray="3,3"/>
+<text x="105.0" y="415" text-anchor="middle" font-size="11" fill="#64748B">+0%</text>
+<line x1="200.1" y1="115" x2="200.1" y2="395" stroke="#E2E8F0" stroke-dasharray="3,3"/>
+<text x="200.1" y="415" text-anchor="middle" font-size="11" fill="#64748B">+1%</text>
+<line x1="295.2" y1="115" x2="295.2" y2="395" stroke="#E2E8F0" stroke-dasharray="3,3"/>
+<text x="295.2" y="415" text-anchor="middle" font-size="11" fill="#64748B">+2%</text>
+<line x1="390.3" y1="115" x2="390.3" y2="395" stroke="#E2E8F0" stroke-dasharray="3,3"/>
+<text x="390.3" y="415" text-anchor="middle" font-size="11" fill="#64748B">+3%</text>
+<line x1="485.4" y1="115" x2="485.4" y2="395" stroke="#E2E8F0" stroke-dasharray="3,3"/>
+<text x="485.4" y="415" text-anchor="middle" font-size="11" fill="#64748B">+4%</text>
+<line x1="580.5" y1="115" x2="580.5" y2="395" stroke="#E2E8F0" stroke-dasharray="3,3"/>
+<text x="580.5" y="415" text-anchor="middle" font-size="11" fill="#64748B">+5%</text>
+<line x1="675.7" y1="115" x2="675.7" y2="395" stroke="#E2E8F0" stroke-dasharray="3,3"/>
+<text x="675.7" y="415" text-anchor="middle" font-size="11" fill="#64748B">+6%</text>
+<line x1="770.8" y1="115" x2="770.8" y2="395" stroke="#E2E8F0" stroke-dasharray="3,3"/>
+<text x="770.8" y="415" text-anchor="middle" font-size="11" fill="#64748B">+7%</text>
+<line x1="865.9" y1="115" x2="865.9" y2="395" stroke="#E2E8F0" stroke-dasharray="3,3"/>
+<text x="865.9" y="415" text-anchor="middle" font-size="11" fill="#64748B">+8%</text>
+<line x1="961.0" y1="115" x2="961.0" y2="395" stroke="#E2E8F0" stroke-dasharray="3,3"/>
+<text x="961.0" y="415" text-anchor="middle" font-size="11" fill="#64748B">+9%</text>
+<text x="542.5" y="437" text-anchor="middle" font-size="12" font-weight="600" fill="#334155">事件日风格剪刀差（上证50涨跌幅 - 中证1000涨跌幅，%）</text>
+<line x1="105" y1="378.5" x2="980" y2="378.5" stroke="#E2E8F0" stroke-width="1"/>
+<text x="95" y="382.5" text-anchor="end" font-size="11" fill="#64748B">-20%</text>
+<line x1="105" y1="337.4" x2="980" y2="337.4" stroke="#E2E8F0" stroke-width="1"/>
+<text x="95" y="341.4" text-anchor="end" font-size="11" fill="#64748B">-15%</text>
+<line x1="105" y1="296.2" x2="980" y2="296.2" stroke="#E2E8F0" stroke-width="1"/>
+<text x="95" y="300.2" text-anchor="end" font-size="11" fill="#64748B">-10%</text>
+<line x1="105" y1="255.0" x2="980" y2="255.0" stroke="#E2E8F0" stroke-width="1"/>
+<text x="95" y="259.0" text-anchor="end" font-size="11" fill="#64748B">-5%</text>
+<line x1="105" y1="213.8" x2="980" y2="213.8" stroke="#475569" stroke-width="1.6"/>
+<text x="95" y="217.8" text-anchor="end" font-size="11" fill="#64748B">+0%</text>
+<line x1="105" y1="172.6" x2="980" y2="172.6" stroke="#E2E8F0" stroke-width="1"/>
+<text x="95" y="176.6" text-anchor="end" font-size="11" fill="#64748B">+5%</text>
+<line x1="105" y1="131.5" x2="980" y2="131.5" stroke="#E2E8F0" stroke-width="1"/>
+<text x="95" y="135.5" text-anchor="end" font-size="11" fill="#64748B">+10%</text>
+<line x1="612.9" y1="115" x2="612.9" y2="395" stroke="#7C3AED" stroke-width="2.2" stroke-dasharray="6,4"/>
+<rect x="526.9" y="121" width="172" height="24" fill="#7C3AED" rx="4"/>
+<text x="612.9" y="137" text-anchor="middle" font-size="11.5" font-weight="700" fill="#FFFFFF">2026-11-20 剪刀差 +5.34%</text>
+<line x1="423.6" y1="285.5" x2="423.6" y2="148.5" stroke="#DC2626" stroke-width="1.8" stroke-dasharray="3,3"/>
+<circle cx="532.0" cy="369.5" r="7.5" fill="#0F766E" stroke="#FFFFFF" stroke-width="2"/>
+<text x="546.0" y="365.5" text-anchor="start" font-size="11" font-weight="600" fill="#0F766E">2024-01-18（仅护50/300→T+12再跌18.9%）</text>
+<circle cx="423.6" cy="285.5" r="7.5" fill="#D97706" stroke="#FFFFFF" stroke-width="2"/>
+<text x="437.6" y="301.5" text-anchor="start" font-size="11" font-weight="600" fill="#D97706">2024-02-02 周五（T+1早盘惯性砸-8.7%→午后扩容深V）</text>
+<circle cx="423.6" cy="138.5" r="7.5" fill="#DC2626" stroke="#FFFFFF" stroke-width="2"/>
+<text x="437.6" y="132.5" text-anchor="start" font-size="11" font-weight="600" fill="#DC2626">2024-02-05 午后扩容1000ETF（节前3日暴涨+9.15%）</text>
+<circle cx="133.5" cy="266.5" r="7.5" fill="#0F766E" stroke="#FFFFFF" stroke-width="2"/>
+<text x="147.5" y="270.5" text-anchor="start" font-size="11" font-weight="600" fill="#0F766E">2024-07-19 周五（主护300/50→2周补跌-6.4%）</text>
+<circle cx="669.0" cy="176.8" r="7.5" fill="#DC2626" stroke="#FFFFFF" stroke-width="2"/>
+<text x="683.0" y="180.8" text-anchor="start" font-size="11" font-weight="600" fill="#DC2626">2025-04-07（汇金+央行联合扩容→T+4反弹+4.5%）</text>
+<circle cx="209.6" cy="195.7" r="7.5" fill="#2563EB" stroke="#FFFFFF" stroke-width="2"/>
+<text x="223.6" y="199.7" text-anchor="start" font-size="11" font-weight="600" fill="#2563EB">2023-10-23（汇金首购ETF→T+5震荡修复+2.2%）</text>
+<circle cx="904.9" cy="312.6" r="7.5" fill="#0F766E" stroke="#FFFFFF" stroke-width="2"/>
+<text x="886.9" y="334.6" text-anchor="end" font-size="11" font-weight="600" fill="#0F766E">2015-07-06（只拉50致小盘冰冻→连杀2日至7/9解冻）</text>
+<circle cx="135" cy="98" r="5" fill="#DC2626"/>
+<text x="146" y="102" font-size="11" fill="#334155">国家队明确扩容至中证1000/平准发声（显著正修复）</text>
+<circle cx="465" cy="98" r="5" fill="#0F766E"/>
+<text x="476" y="102" font-size="11" fill="#334155">仅护上证50/沪深300（中小盘继续失血/二次探底）</text>
+<circle cx="775" cy="98" r="5" fill="#D97706"/>
+<text x="786" y="102" font-size="11" fill="#334155">先杀跌后扩容转折点</text>
+</svg>

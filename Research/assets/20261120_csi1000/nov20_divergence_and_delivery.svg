@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="480" viewBox="0 0 1080 480">
+<defs><style>text { font-family: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', -apple-system, sans-serif; }</style></defs>
+<rect width="1080" height="480" fill="#FAFBFC" rx="8"/>
+<text x="32" y="38" font-size="18" font-weight="700" fill="#0F172A">2026年11月20日（周五）A股极端风格劈叉与尾盘“国家队拉50、1000失血”微观证据</text>
+<text x="32" y="60" font-size="12" fill="#475569">左图：全天各宽基指数涨跌幅（上证50 vs 中证1000剪刀差 +5.34%）；右图：收盘价较中金所交割结算价（13:00-15:00均价）偏离度</text>
+<rect x="24" y="78" width="520" height="378" fill="#FFFFFF" stroke="#E2E8F0" rx="6"/>
+<text x="42" y="104" font-size="14" font-weight="600" fill="#1E293B">A. 2026-11-20 全天宽基指数涨跌幅 (%)</text>
+<line x1="177.0" y1="120" x2="177.0" y2="412" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="177.0" y="430" text-anchor="middle" font-size="11" fill="#64748B">-5%</text>
+<line x1="229.0" y1="120" x2="229.0" y2="412" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="229.0" y="430" text-anchor="middle" font-size="11" fill="#64748B">-4%</text>
+<line x1="281.0" y1="120" x2="281.0" y2="412" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="281.0" y="430" text-anchor="middle" font-size="11" fill="#64748B">-3%</text>
+<line x1="333.0" y1="120" x2="333.0" y2="412" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="333.0" y="430" text-anchor="middle" font-size="11" fill="#64748B">-2%</text>
+<line x1="385.0" y1="120" x2="385.0" y2="412" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="385.0" y="430" text-anchor="middle" font-size="11" fill="#64748B">-1%</text>
+<line x1="437.0" y1="120" x2="437.0" y2="412" stroke="#64748B" stroke-width="1.5"/>
+<text x="437.0" y="430" text-anchor="middle" font-size="11" fill="#64748B">+0%</text>
+<line x1="489.0" y1="120" x2="489.0" y2="412" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="489.0" y="430" text-anchor="middle" font-size="11" fill="#64748B">+1%</text>
+<text x="115" y="144" text-anchor="end" font-size="12" font-weight="500" fill="#334155">上证50</text>
+<rect x="437.0" y="128" width="23.4" height="24" fill="#DC2626" rx="3"/>
+<text x="466.4" y="144" font-size="11.5" font-weight="700" fill="#DC2626">+0.45%</text>
+<text x="115" y="180" text-anchor="end" font-size="12" font-weight="500" fill="#334155">沪深300</text>
+<rect x="397.5" y="164" width="39.5" height="24" fill="#047857" rx="3"/>
+<text x="392.5" y="180" text-anchor="end" font-size="11.5" font-weight="600" fill="#065F46">-0.76%</text>
+<text x="115" y="216" text-anchor="end" font-size="12" font-weight="500" fill="#334155">上证指数</text>
+<rect x="373.6" y="200" width="63.4" height="24" fill="#047857" rx="3"/>
+<text x="368.6" y="216" text-anchor="end" font-size="11.5" font-weight="600" fill="#065F46">-1.22%</text>
+<text x="115" y="252" text-anchor="end" font-size="12" font-weight="500" fill="#334155">深证成指</text>
+<rect x="276.3" y="236" width="160.7" height="24" fill="#047857" rx="3"/>
+<text x="271.3" y="252" text-anchor="end" font-size="11.5" font-weight="600" fill="#065F46">-3.09%</text>
+<text x="115" y="288" text-anchor="end" font-size="12" font-weight="500" fill="#334155">科创50</text>
+<rect x="274.8" y="272" width="162.2" height="24" fill="#047857" rx="3"/>
+<text x="269.8" y="288" text-anchor="end" font-size="11.5" font-weight="600" fill="#065F46">-3.12%</text>
+<text x="115" y="324" text-anchor="end" font-size="12" font-weight="500" fill="#334155">创业板指</text>
+<rect x="252.9" y="308" width="184.1" height="24" fill="#047857" rx="3"/>
+<text x="247.9" y="324" text-anchor="end" font-size="11.5" font-weight="600" fill="#065F46">-3.54%</text>
+<text x="115" y="360" text-anchor="end" font-size="12" font-weight="500" fill="#334155">中证500</text>
+<rect x="232.6" y="344" width="204.4" height="24" fill="#047857" rx="3"/>
+<text x="227.6" y="360" text-anchor="end" font-size="11.5" font-weight="600" fill="#065F46">-3.93%</text>
+<text x="115" y="396" text-anchor="end" font-size="12" font-weight="500" fill="#334155">中证1000</text>
+<rect x="182.7" y="380" width="254.3" height="24" fill="#0F766E" rx="3"/>
+<text x="177.7" y="396" text-anchor="end" font-size="11.5" font-weight="600" fill="#065F46">-4.89%</text>
+<rect x="135" y="378" width="215" height="28" fill="#FEF2F2" stroke="#FCA5A5" rx="4"/>
+<text x="242" y="396" text-anchor="middle" font-size="11.5" font-weight="700" fill="#991B1B">50 vs 1000 单日剪刀差: +5.34%</text>
+<rect x="560" y="78" width="496" height="378" fill="#FFFFFF" stroke="#E2E8F0" rx="6"/>
+<text x="578" y="104" font-size="14" font-weight="600" fill="#1E293B">B. 交割日午后尾盘异动：收盘价 vs 交割结算价偏离 (%)</text>
+<text x="578" y="122" font-size="11" fill="#64748B">中金所交割结算价 = 13:00-15:00现货算术均价；正偏离=尾盘狂拉，负偏离=尾盘砸盘</text>
+<line x1="615" y1="353.9" x2="1032" y2="353.9" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="608" y="357.9" text-anchor="end" font-size="10.5" fill="#64748B">-1.5%</text>
+<line x1="615" y1="327.1" x2="1032" y2="327.1" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="608" y="331.1" text-anchor="end" font-size="10.5" fill="#64748B">-1.0%</text>
+<line x1="615" y1="300.4" x2="1032" y2="300.4" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="608" y="304.4" text-anchor="end" font-size="10.5" fill="#64748B">-0.5%</text>
+<line x1="615" y1="273.6" x2="1032" y2="273.6" stroke="#64748B" stroke-width="1.5"/>
+<text x="608" y="277.6" text-anchor="end" font-size="10.5" fill="#64748B">+0.0%</text>
+<line x1="615" y1="246.8" x2="1032" y2="246.8" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="608" y="250.8" text-anchor="end" font-size="10.5" fill="#64748B">+0.5%</text>
+<line x1="615" y1="220.0" x2="1032" y2="220.0" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="608" y="224.0" text-anchor="end" font-size="10.5" fill="#64748B">+1.0%</text>
+<line x1="615" y1="193.2" x2="1032" y2="193.2" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="608" y="197.2" text-anchor="end" font-size="10.5" fill="#64748B">+1.5%</text>
+<line x1="615" y1="166.4" x2="1032" y2="166.4" stroke="#E2E8F0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="608" y="170.4" text-anchor="end" font-size="10.5" fill="#64748B">+2.0%</text>
+<rect x="647.0" y="176.6" width="56" height="97.0" fill="#DC2626" rx="4"/>
+<text x="675" y="168.6" text-anchor="middle" font-size="12" font-weight="700" fill="#DC2626">+1.81%</text>
+<text x="675" y="394" text-anchor="middle" font-size="11.5" font-weight="600" fill="#1E293B">上证50</text>
+<text x="675" y="410" text-anchor="middle" font-size="10" fill="#64748B">(IH2611)</text>
+<rect x="747.0" y="225.4" width="56" height="48.2" fill="#DC2626" rx="4"/>
+<text x="775" y="217.4" text-anchor="middle" font-size="12" font-weight="700" fill="#DC2626">+0.90%</text>
+<text x="775" y="394" text-anchor="middle" font-size="11.5" font-weight="600" fill="#1E293B">沪深300</text>
+<text x="775" y="410" text-anchor="middle" font-size="10" fill="#64748B">(IF2611)</text>
+<rect x="847.0" y="273.6" width="56" height="38.0" fill="#0F766E" rx="4"/>
+<text x="875" y="327.6" text-anchor="middle" font-size="12" font-weight="700" fill="#0F766E">-0.71%</text>
+<text x="875" y="394" text-anchor="middle" font-size="11.5" font-weight="600" fill="#1E293B">中证500</text>
+<text x="875" y="410" text-anchor="middle" font-size="10" fill="#64748B">(IC2611)</text>
+<rect x="947.0" y="273.6" width="56" height="66.4" fill="#0F766E" rx="4"/>
+<text x="975" y="356.0" text-anchor="middle" font-size="12" font-weight="700" fill="#0F766E">-1.24%</text>
+<text x="975" y="394" text-anchor="middle" font-size="11.5" font-weight="600" fill="#1E293B">中证1000</text>
+<text x="975" y="410" text-anchor="middle" font-size="10" fill="#64748B">(IM2611)</text>
+<rect x="598" y="422" width="420" height="24" fill="#F0FDF4" stroke="#86EFAC" rx="4"/>
+<text x="808" y="438" text-anchor="middle" font-size="11" font-weight="600" fill="#166534">午后尾盘剪刀差高达 3.05%：国家队集中扫货50/300，1000同步加速砸盘</text>
+</svg>

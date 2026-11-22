@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="500" viewBox="0 0 1080 500">
+<defs><style>text { font-family: 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans CJK SC', -apple-system, sans-serif; }</style></defs>
+<rect width="1080" height="500" fill="#FAFBFC" rx="8"/>
+<text x="32" y="38" font-size="18" font-weight="700" fill="#0F172A">中证1000指数连跌轨迹（11/13-11/20）与下周（11/23-11/27）三大技术情景推演</text>
+<text x="32" y="60" font-size="12" fill="#475569">基准情景（55%）：周一受外盘暴跌惯性破5500诱空→周中反抽5780-5850遇阻→周末缩量回踩筑底</text>
+<rect x="28" y="76" width="1024" height="398" fill="#FFFFFF" stroke="#E2E8F0" rx="6"/>
+<rect x="547.5" y="105" width="452.5" height="310" fill="#F8FAFC"/>
+<line x1="547.5" y1="105" x2="547.5" y2="415" stroke="#94A3B8" stroke-width="1.5" stroke-dasharray="5,4"/>
+<text x="773.8" y="123" text-anchor="middle" font-size="12" font-weight="600" fill="#475569">← 历史已发生连跌期 | 下周技术推演区间（11/23 - 11/27）→</text>
+<rect x="95" y="216.1" width="905" height="10.3" fill="#FEF3C7" opacity="0.55"/>
+<text x="992" y="225.2" text-anchor="end" font-size="10.5" font-weight="600" fill="#B45309">6000点 强心理/破位阻力带</text>
+<rect x="95" y="260.0" width="905" height="18.1" fill="#FEE2E2" opacity="0.55"/>
+<text x="992" y="273.0" text-anchor="end" font-size="10.5" font-weight="600" fill="#B91C1C">5780-5850 周五长阴半分位阻力</text>
+<rect x="95" y="342.7" width="905" height="12.9" fill="#DBEAFE" opacity="0.55"/>
+<text x="992" y="353.1" text-anchor="end" font-size="10.5" font-weight="600" fill="#1D4ED8">5500点 第一整数防守/诱空带</text>
+<rect x="95" y="373.7" width="905" height="18.1" fill="#DCFCE7" opacity="0.55"/>
+<text x="992" y="386.7" text-anchor="end" font-size="10.5" font-weight="600" fill="#15803D">5350-5420 长期均线极限支撑</text>
+<line x1="95" y1="402.1" x2="1000" y2="402.1" stroke="#E2E8F0" stroke-width="1"/>
+<text x="85" y="406.1" text-anchor="end" font-size="11" fill="#64748B">5300</text>
+<line x1="95" y1="363.3" x2="1000" y2="363.3" stroke="#E2E8F0" stroke-width="1"/>
+<text x="85" y="367.3" text-anchor="end" font-size="11" fill="#64748B">5450</text>
+<line x1="95" y1="324.6" x2="1000" y2="324.6" stroke="#E2E8F0" stroke-width="1"/>
+<text x="85" y="328.6" text-anchor="end" font-size="11" fill="#64748B">5600</text>
+<line x1="95" y1="285.8" x2="1000" y2="285.8" stroke="#E2E8F0" stroke-width="1"/>
+<text x="85" y="289.8" text-anchor="end" font-size="11" fill="#64748B">5750</text>
+<line x1="95" y1="247.1" x2="1000" y2="247.1" stroke="#E2E8F0" stroke-width="1"/>
+<text x="85" y="251.1" text-anchor="end" font-size="11" fill="#64748B">5900</text>
+<line x1="95" y1="208.3" x2="1000" y2="208.3" stroke="#E2E8F0" stroke-width="1"/>
+<text x="85" y="212.3" text-anchor="end" font-size="11" fill="#64748B">6050</text>
+<line x1="95" y1="169.6" x2="1000" y2="169.6" stroke="#E2E8F0" stroke-width="1"/>
+<text x="85" y="173.6" text-anchor="end" font-size="11" fill="#64748B">6200</text>
+<line x1="95" y1="130.8" x2="1000" y2="130.8" stroke="#E2E8F0" stroke-width="1"/>
+<text x="85" y="134.8" text-anchor="end" font-size="11" fill="#64748B">6350</text>
+<line x1="95.0" y1="415" x2="95.0" y2="420" stroke="#94A3B8"/>
+<text x="95.0" y="437" text-anchor="middle" font-size="10.5" font-weight="400" fill="#475569">11/13(前收)</text>
+<line x1="185.5" y1="415" x2="185.5" y2="420" stroke="#94A3B8"/>
+<text x="185.5" y="437" text-anchor="middle" font-size="10.5" font-weight="400" fill="#475569">11/16(一)</text>
+<line x1="276.0" y1="415" x2="276.0" y2="420" stroke="#94A3B8"/>
+<text x="276.0" y="437" text-anchor="middle" font-size="10.5" font-weight="400" fill="#475569">11/17(二)</text>
+<line x1="366.5" y1="415" x2="366.5" y2="420" stroke="#94A3B8"/>
+<text x="366.5" y="437" text-anchor="middle" font-size="10.5" font-weight="400" fill="#475569">11/18(三)</text>
+<line x1="457.0" y1="415" x2="457.0" y2="420" stroke="#94A3B8"/>
+<text x="457.0" y="437" text-anchor="middle" font-size="10.5" font-weight="400" fill="#475569">11/19(四)</text>
+<line x1="547.5" y1="415" x2="547.5" y2="420" stroke="#94A3B8"/>
+<text x="547.5" y="437" text-anchor="middle" font-size="10.5" font-weight="700" fill="#0F172A">11/20(五)</text>
+<line x1="638.0" y1="415" x2="638.0" y2="420" stroke="#94A3B8"/>
+<text x="638.0" y="437" text-anchor="middle" font-size="10.5" font-weight="400" fill="#475569">11/23(一)</text>
+<line x1="728.5" y1="415" x2="728.5" y2="420" stroke="#94A3B8"/>
+<text x="728.5" y="437" text-anchor="middle" font-size="10.5" font-weight="400" fill="#475569">11/24(二)</text>
+<line x1="819.0" y1="415" x2="819.0" y2="420" stroke="#94A3B8"/>
+<text x="819.0" y="437" text-anchor="middle" font-size="10.5" font-weight="400" fill="#475569">11/25(三)</text>
+<line x1="909.5" y1="415" x2="909.5" y2="420" stroke="#94A3B8"/>
+<text x="909.5" y="437" text-anchor="middle" font-size="10.5" font-weight="400" fill="#475569">11/26(四)</text>
+<line x1="1000.0" y1="415" x2="1000.0" y2="420" stroke="#94A3B8"/>
+<text x="1000.0" y="437" text-anchor="middle" font-size="10.5" font-weight="400" fill="#475569">11/27(五)</text>
+<polyline points="95.0,129.0 185.5,178.7 276.0,197.4 366.5,207.6 457.0,237.0 547.5,312.0" fill="none" stroke="#0F172A" stroke-width="3"/>
+<circle cx="95.0" cy="129.0" r="4.5" fill="#0F172A"/>
+<text x="95.0" y="119.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#0F172A">6357</text>
+<circle cx="185.5" cy="178.7" r="4.5" fill="#0F172A"/>
+<text x="185.5" y="168.7" text-anchor="middle" font-size="10.5" font-weight="700" fill="#0F172A">6165</text>
+<circle cx="276.0" cy="197.4" r="4.5" fill="#0F172A"/>
+<text x="276.0" y="187.4" text-anchor="middle" font-size="10.5" font-weight="700" fill="#0F172A">6092</text>
+<circle cx="366.5" cy="207.6" r="4.5" fill="#0F172A"/>
+<text x="366.5" y="197.6" text-anchor="middle" font-size="10.5" font-weight="700" fill="#0F172A">6053</text>
+<circle cx="457.0" cy="237.0" r="4.5" fill="#0F172A"/>
+<text x="457.0" y="227.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#0F172A">5939</text>
+<circle cx="547.5" cy="312.0" r="4.5" fill="#0F172A"/>
+<text x="547.5" y="300.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#0F172A">5649</text>
+<polyline points="547.5,312.0 638.0,327.2 728.5,278.1 819.0,252.2 909.5,236.8 1000.0,226.4" fill="none" stroke="#DC2626" stroke-width="2.4" stroke-dasharray="6,4"/>
+<circle cx="638.0" cy="327.2" r="3.8" fill="#DC2626"/>
+<circle cx="728.5" cy="278.1" r="3.8" fill="#DC2626"/>
+<circle cx="819.0" cy="252.2" r="3.8" fill="#DC2626"/>
+<circle cx="909.5" cy="236.8" r="3.8" fill="#DC2626"/>
+<circle cx="1000.0" cy="226.4" r="3.8" fill="#DC2626"/>
+<text x="1006.0" y="230.4" font-size="11" font-weight="700" fill="#DC2626">乐观(20%)</text>
+<polyline points="547.5,312.0 638.0,347.8 728.5,303.9 819.0,276.8 909.5,309.1 1000.0,318.1" fill="none" stroke="#2563EB" stroke-width="3.0" stroke-dasharray="0"/>
+<circle cx="638.0" cy="347.8" r="3.8" fill="#2563EB"/>
+<circle cx="728.5" cy="303.9" r="3.8" fill="#2563EB"/>
+<circle cx="819.0" cy="276.8" r="3.8" fill="#2563EB"/>
+<circle cx="909.5" cy="309.1" r="3.8" fill="#2563EB"/>
+<circle cx="1000.0" cy="318.1" r="3.8" fill="#2563EB"/>
+<text x="1006.0" y="322.1" font-size="11" font-weight="700" fill="#2563EB">基准(55%)</text>
+<polyline points="547.5,312.0 638.0,355.6 728.5,371.1 819.0,386.6 909.5,365.9 1000.0,373.7" fill="none" stroke="#0F766E" stroke-width="2.4" stroke-dasharray="4,4"/>
+<circle cx="638.0" cy="355.6" r="3.8" fill="#0F766E"/>
+<circle cx="728.5" cy="371.1" r="3.8" fill="#0F766E"/>
+<circle cx="819.0" cy="386.6" r="3.8" fill="#0F766E"/>
+<circle cx="909.5" cy="365.9" r="3.8" fill="#0F766E"/>
+<circle cx="1000.0" cy="373.7" r="3.8" fill="#0F766E"/>
+<text x="1006.0" y="377.7" font-size="11" font-weight="700" fill="#0F766E">悲观(25%)</text>
+<rect x="112" y="348" width="380" height="58" fill="#FFFFFF" stroke="#CBD5E1" rx="5" opacity="0.95"/>
+<line x1="126" y1="366" x2="156" y2="366" stroke="#2563EB" stroke-width="3"/>
+<text x="164" y="370" font-size="11" fill="#1E293B">基准情景(55%): 破5500诱空→反抽5780-5850→回踩筑底</text>
+<line x1="126" y1="383" x2="156" y2="383" stroke="#0F766E" stroke-width="2.4" stroke-dasharray="4,4"/>
+<text x="164" y="387" font-size="11" fill="#1E293B">悲观情景(25%): 只护50不救1000→二次踩踏至5350-5420</text>
+<line x1="126" y1="398" x2="156" y2="398" stroke="#DC2626" stroke-width="2.4" stroke-dasharray="6,4"/>
+<text x="164" y="402" font-size="11" fill="#1E293B">乐观情景(20%): 汇金明确扩容买1000ETF→深V收复5900+</text>
+</svg>
